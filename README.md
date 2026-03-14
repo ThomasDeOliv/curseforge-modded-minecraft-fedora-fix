@@ -11,7 +11,7 @@ The error was thrown directly at the audio driver level.
 
 ## A solution that worked for me
 
-Create the file .alsoftrc in your home directory (~/.alsoftrc) with the following content:
+Create a `.alsoftrc` file in your home directory (`~/.alsoftrc`) with the following content:
 ```ini
 [general]
 drivers=pulse
