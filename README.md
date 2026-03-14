@@ -21,5 +21,4 @@ hrtf=true
 This forces OpenAL to use the PulseAudio backend (provided by pipewire-pulse), resolving the conflict.
 
 ## References
-- [Minecraft crashing from OpenAL - r/linux_gaming](https://www.reddit.com/r/linux_gaming/comments/18qjnwk/minecraft_crashing_from_openal/)
-  Solution originally posted by u/Corpdecker
+- [Minecraft crashing from OpenAL - r/linux_gaming](https://www.reddit.com/r/linux_gaming/comments/18qjnwk/minecraft_crashing_from_openal/) : solution originally posted by u/Corpdecker
